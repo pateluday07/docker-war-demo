@@ -3,6 +3,9 @@
 This project will demonstrate how to deploy the WAR file in a 
 docker container.
 
+### Prerequisites
+* Docker
+
 Take reference to my **Dockerfile** and similarly prepare yours the
 **Dockerfile** is available in the `/docker-war-demo` directory.
 
@@ -19,6 +22,6 @@ following test APIs:
 * http://localhost:8080/docker-war-demo/
 * http://localhost:8080/docker-war-demo/test
 
-<p style="color: greenyellow" align="center">
+<p align="center">
   <b>Thank You :)</b>
 </p>
